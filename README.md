@@ -11,4 +11,4 @@ Desktop app para la evaluación del precio impacto, probabilidad y valor de ries
 
 ## Nota
 1. La dirección a la que se le hizo web scraping es [DNS Lookup](https://dnslookup.es/).
-2. Herramientas de automatización de compilación de Java utilizado en este proyecto es Apache Ant.
+2. Herramienta de automatización de compilación de Java utilizado en este proyecto es Apache Ant.
